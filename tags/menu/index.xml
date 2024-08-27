@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menu on Big Pot</title>
+    <link>https://bigpot.co.nz/tags/menu/</link>
+    <description>Recent content in Menu on Big Pot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Aug 2024 11:17:17 +0600</lastBuildDate>
+    <atom:link href="https://bigpot.co.nz/tags/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menu3</title>
+      <link>https://bigpot.co.nz/blog/menu3/</link>
+      <pubDate>Mon, 26 Aug 2024 11:17:17 +0600</pubDate>
+      <guid>https://bigpot.co.nz/blog/menu3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Menu3</title>
+      <link>https://bigpot.co.nz/panelpaint/menu3/</link>
+      <pubDate>Mon, 26 Aug 2024 11:17:17 +0600</pubDate>
+      <guid>https://bigpot.co.nz/panelpaint/menu3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Menu2</title>
+      <link>https://bigpot.co.nz/blog/menu2/</link>
+      <pubDate>Sun, 25 Aug 2024 11:18:32 +0600</pubDate>
+      <guid>https://bigpot.co.nz/blog/menu2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
